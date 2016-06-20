@@ -17,14 +17,27 @@ nav {
 
 .about-me-container {
   width: 65%;
+  background-image: url("images/about_me_content.jpg");
+  background-size: cover;
 }
 
 .about-me-content {
   width: 94%;
   margin-left: 20px;
+  color: white;
 }
 
 .section-header {
   text-align: center;
   font-size: 30px;
+}
+
+.code-examples-container {
+  display: flex;
+  width: 100%;
+}
+
+.links {
+  width: 20%;
+  margin: 0 auto;
 }
