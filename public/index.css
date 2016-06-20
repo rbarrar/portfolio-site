@@ -1,4 +1,29 @@
-.navbar-container {
+nav {
+  margin-bottom: 0 !important;
+}
+
+.main-content {
   display: flex;
   width: 100%;
+}
+
+.image {
+  width: 35%;
+}
+
+.headshot {
+  width: 100%;
+}
+
+.about-me-container {
+  width: 65%;
+}
+
+.about-me-content {
+  width: 98%;
+  margin-left: 5px;
+}
+
+.section-header {
+  text-align: center;
 }
